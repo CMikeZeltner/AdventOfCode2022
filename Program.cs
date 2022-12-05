@@ -1,3 +1,4 @@
 ﻿//DayOne.Run();
 //DayTwo.Run();
-DayThree three = new DayThree();
+//DayThree three = new DayThree();
+DayFour four = new DayFour();
