@@ -1,5 +1,3 @@
-using System.Text.RegularExpressions;
-
 public class DayFive{
 
     StreamReader sr = new StreamReader("Day5/input.txt");
